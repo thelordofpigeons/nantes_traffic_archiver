@@ -42,7 +42,7 @@ nantes_traffic_archiver/
     *   Create or activate a suitable Conda environment. If you created one within the project (e.g., `.conda`), activate it:
         ```bash
         # Adjust path as needed
-        conda activate "C:\Users\ASUS\Documents\Stage LS2N\nantes_traffic_archiver\.conda"
+        conda activate "<path-to-your-project>\nantes_traffic_archiver\.conda"
         # Or activate by name
         # conda activate your_fetcher_env_name
         ```

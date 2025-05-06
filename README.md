@@ -4,7 +4,7 @@
 
 This project contains a Python script (`fetch_traffic_snapshot.py`) designed to periodically fetch real-time traffic fluidity data for Nantes Métropole from their open data API. It retrieves all available records, saves them as timestamped CSV files in an `archive` directory, and logs its activity.
 
-This script serves as the data source provider for the separate [Nantes Traffic Analysis Project](https://github.com/thelordofpigeons/nantes-traffic-analysis). *(<- Ensure this link is correct!)*
+This script serves as the data source provider for the separate [Nantes Traffic Analysis Project](https://github.com/thelordofpigeons/nantes-traffic-analysis). 
 
 ## Features
 

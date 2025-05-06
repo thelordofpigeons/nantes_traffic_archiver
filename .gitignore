@@ -1,0 +1,43 @@
+# --- Generated Data & Logs ---
+# Ignore the archive directory containing raw data snapshots
+dist/archive/
+archive/
+# Ignore the log file
+log_output.txt
+dist/log_output.txt
+
+# --- Build Artifacts & Distribution ---
+# Ignore PyInstaller build directories and executable output
+build/
+dist/
+*.exe
+*.spec
+
+# --- Python Cache & Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.conda/
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDE specific ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Potentially ignore test files unless you want them versioned ---
+test.py
